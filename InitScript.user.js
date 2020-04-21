@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PP Void Bot
-// @version      0.2
+// @version      0.3
 // @description  Make us great again!
 // @author       Darkness
 // @include      *://pixelplanet.fun/*
