@@ -10,33 +10,33 @@ Installation
 
 Detailed instructions
 1. Strategy
-   1. Line
+   * Line
       Lines from left to right, from top to bottom.
-   2. Random
+   * Random
       Just random.
-   3. Regenerate
+   * Regenerate
       Healing very small wounds.
-   4. Spread
+   * Spread
       Like regenerate but also spread Void.
-   5. Mycelium
+   * Mycelium
       Makes lines that do not touch each other, looks like roots.
-   6. Spores
+   * Spores
       Random points that do not touch each other.
 2. Direction
-   1. Defalut
+   * Defalut
       Random pixel order.
-   2. Center
+   * Center
       Pixels are placed as close to the center of the screen as possible.
-   3. Near
+   * Near
       Pixel will be placed near to the last bot pixel.
 3. Cover
-   1. All
+   * All
       Cover all pixels.
-   2. Colored
+   * Colored
       Cover all without background
-   3. Background
+   * Background
       Cover ground and ocean
-   4. Ground
+   * Ground
       Cover only ground (white pxls)
 
 My discord Darkness#7954
