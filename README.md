@@ -6,3 +6,5 @@ Void Bot for pixelplanet.fun
    If a captcha appears, the bot will notify you of this in the title of the site.
    To continue, put a pixel anywhere on the canvas.
 4. Make us great again!
+
+My discord Darkness#7954
