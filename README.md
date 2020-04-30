@@ -9,34 +9,34 @@ Installation
 4. Make us great again!
 
 Detailed instructions
-1. Strategy
-   * Line
+1. **Strategy**
+   * *Line*
       Lines from left to right, from top to bottom.
-   * Random
+   * *Random*
       Just random.
-   * Regenerate
+   * *Regenerate*
       Healing very small wounds.
-   * Spread
+   * *Spread*
       Like regenerate but also spread Void.
-   * Mycelium
+   * *Mycelium*
       Makes lines that do not touch each other, looks like roots.
-   * Spores
+   * *Spores*
       Random points that do not touch each other.
-2. Direction
-   * Defalut
+2. **Direction**
+   * *Defalut*
       Random pixel order.
-   * Center
+   * *Center*
       Pixels are placed as close to the center of the screen as possible.
-   * Near
+   * *Near*
       Pixel will be placed near to the last bot pixel.
-3. Cover
-   * All
+3. **Cover**
+   * *All*
       Cover all pixels.
-   * Colored
+   * *Colored*
       Cover all without background
-   * Background
+   * *Background*
       Cover ground and ocean
-   * Ground
+   * *Ground*
       Cover only ground (white pxls)
 
 My discord Darkness#7954
