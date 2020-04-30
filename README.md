@@ -39,4 +39,4 @@ Detailed instructions
    * *Ground*
       Cover only ground (white pxls)
 
-My discord Darkness#7954
+My discord - Darkness#7954
