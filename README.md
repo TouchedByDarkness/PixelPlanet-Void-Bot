@@ -1,6 +1,6 @@
 Void Bot for pixelplanet.fun
 
-Installation
+**Installation**
 1. Download Tampermonkey Stable from this link https://www.tampermonkey.net/
 2. Follow this link to install bot https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot/raw/master/InitScript.user.js
 3. Press key "V" to start or stop.
@@ -8,7 +8,7 @@ Installation
    To continue, put a pixel anywhere on the canvas.
 4. Make us great again!
 
-Detailed instructions
+**Detailed instructions**
 1. **Strategy**
    * *Line*
       Lines from left to right, from top to bottom.
