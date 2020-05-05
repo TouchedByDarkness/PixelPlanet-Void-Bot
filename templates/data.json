@@ -6,10 +6,10 @@
     "width":200,
     "height":217
   },
-    "tmp":{
-    "name":"123",
-    "x":-17170,
-    "y":-3100,
+  "botLink":{
+    "name":"link",
+    "x":1988,
+    "y":-11584,
     "width":2,
     "height":15
   }
