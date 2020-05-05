@@ -10,8 +10,6 @@ Void Bot for pixelplanet.fun
 
 **Detailed instructions**
 1. **Strategy**
-   * *Line*
-      Lines from left to right, from top to bottom.
    * *Random*
       Just random.
    * *Regenerate*
