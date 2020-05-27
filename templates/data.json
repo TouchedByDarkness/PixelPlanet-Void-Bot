@@ -6,6 +6,13 @@
     "width":200,
     "height":217
   },
+  "someImpudentPony":{
+    "name":"demilitarized_2",
+    "x":-18456,
+    "y":-3518,
+    "width":236,
+    "height":191
+  },
   "botLink":{
     "name":"link",
     "x":-18415,
