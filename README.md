@@ -1,8 +1,8 @@
 Void Bot for pixelplanet.fun
 
 **Installation**
-1. Download Tampermonkey Stable from this link https://www.tampermonkey.net/
-2. Follow this link to install bot https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot/raw/master/InitScript.user.js
+1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
+2. [Install bot](https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot/raw/master/InitScript.user.js)
 3. Press key "V" to start or stop.
    If a captcha appears, the bot will notify you (need to enable notification).
    After solving captcha press "V" to continue bot work.
@@ -38,7 +38,7 @@ Void Bot for pixelplanet.fun
    * *Ground*
       Cover only ground (white pxls)
       
-**Notes**
+**Notes**<br/>
 Bot can build templates in the repository.
 
 My discord - Darkness#7954
