@@ -1,6 +1,6 @@
 Void Bot for pixelplanet.fun
 
-**Installation**
+**Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
 2. [Install bot](https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot/raw/master/InitScript.user.js)
 3. Press key "V" to start or stop.
@@ -8,8 +8,7 @@ Void Bot for pixelplanet.fun
    After solving captcha press "V" to continue bot work.
 4. Make us great again!
 
-**Detailed instructions**
-
+**Detailed instructions**<br/>
 1. **Strategy**
    * *Random*
       Just random.
