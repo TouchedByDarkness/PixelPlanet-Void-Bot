@@ -5,10 +5,11 @@ Void Bot for pixelplanet.fun
 2. Follow this link to install bot https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot/raw/master/InitScript.user.js
 3. Press key "V" to start or stop.
    If a captcha appears, the bot will notify you (need to enable notification).
-   To continue, put a pixel anywhere on the canvas.
+   After solving captcha press "V" to continue bot work.
 4. Make us great again!
 
 **Detailed instructions**
+
 1. **Strategy**
    * *Random*
       Just random.
@@ -36,5 +37,8 @@ Void Bot for pixelplanet.fun
       Cover ground and ocean
    * *Ground*
       Cover only ground (white pxls)
+      
+**Notes**
+Bot can build templates in the repository.
 
 My discord - Darkness#7954
