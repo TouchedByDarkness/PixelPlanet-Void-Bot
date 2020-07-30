@@ -42,4 +42,8 @@ Void Bot for pixelplanet.fun
 **Notes**<br/>
 Bot can build templates in the repository.
 
+**Other**<br/>
+Also see my bot for your own templates [here](https://github.com/TouchedByDarkness/PixelPlanet-Bot)
+
+You can report bugs or suggest improvements.
 My discord - Darkness#7954
