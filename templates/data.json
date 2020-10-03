@@ -1,23 +1,23 @@
 {
-  "dmZ_1":{
+  "dmz_1":{
     "name":"demilitarized_1",
     "x":-17816,
     "y":-3257,
     "width":200,
     "height":217
   },
-  "someImpudentPony":{
+  "dmz_2":{
     "name":"demilitarized_2",
     "x":-18456,
     "y":-3517,
     "width":236,
     "height":191
   },
-  "botLink":{
-    "name":"link",
-    "x":-18415,
-    "y":-3539,
-    "width":141,
-    "height":7
+  "dmz_3":{
+    "name":"pyramid",
+    "x":-16193,
+    "y":-4114,
+    "width":83,
+    "height":34
   }
 }
