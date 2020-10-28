@@ -14,6 +14,13 @@
     "height":191
   },
   "dmz_3":{
+    "name":"demilitarized_3",
+    "x":-16376,
+    "y":-2937,
+    "width":279,
+    "height":350
+  }
+  "dmz_4":{
     "name":"pyramid",
     "x":-16193,
     "y":-4114,
