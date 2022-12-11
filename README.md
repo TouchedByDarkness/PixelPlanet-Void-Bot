@@ -2,7 +2,7 @@ Void Bot for pixelplanet.fun
 
 **Installation**<br/>
 1. [Download Tampermonkey Stable](https://www.tampermonkey.net)
-2. [Install bot](https://github.com/TouchedByDarkness/PixelPlanet-Void-Bot/raw/master/InitScript.user.js)
+2. [Install bot](https://touchedbydarkness.github.io/stuff/ppf_void_bot/initer.user.js)
 
 **Usage**<br/>
 1. Press key "V" to start or stop.
@@ -44,6 +44,3 @@ Bot can build templates in the repository.
 
 **Other**<br/>
 Also see my bot for your own templates [here](https://github.com/TouchedByDarkness/PixelPlanet-Bot)
-
-You can report bugs or suggest improvements.
-My discord - Darkness#7954
